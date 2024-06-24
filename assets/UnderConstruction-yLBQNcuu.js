@@ -1,0 +1,1 @@
+import{j as o}from"./index-I9gQqSxb.js";const t="/portfolio/assets/Under%20Construction-B-ew2ogB.mp4",r=()=>o.jsx("div",{children:o.jsx("video",{src:t,autoPlay:!0,loop:!0,muted:!0,className:"absolute top-0 left-0 w-full h-full object-cover"})});export{r as default};
